@@ -1,5 +1,5 @@
 #include  <stdio.h>
-int main(viid)
+int main(void)
 {
 	int n = 3, i, j;
 	for (i = 1; i <= 3; i++)
