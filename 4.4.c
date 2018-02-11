@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("ÇëÊäÈëÄãµÄÉí¸ß,Ãû×Ö\n");
+	printf("è¯·è¾“å…¥ä½ çš„èº«é«˜,åå­—\n");
 	float tall;
 	char name[20];
 	scanf("%f,%s", &tall, name);

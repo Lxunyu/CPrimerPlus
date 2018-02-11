@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("请输入下载速度，文件大小\n");
+	printf("璇疯緭鍏ヤ笅杞介�熷害锛屾枃浠跺ぇ灏廫n");
 	float Mb, MB,time;
 	scanf("%f,%f", &Mb, &MB);
 	time = MB/Mb*8;

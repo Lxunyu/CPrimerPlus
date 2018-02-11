@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("输入一个浮点数");
+	printf("杈撳叆涓�涓诞鐐规暟");
 	float number;
 	scanf("%f", &number);
-	printf("小数，The input is %f\n", number);
-	printf("指数，The input is %e", number);
+	printf("灏忔暟锛孴he input is %f\n", number);
+	printf("鎸囨暟锛孴he input is %e", number);
 	return 0;
 }
