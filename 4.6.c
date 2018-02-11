@@ -2,10 +2,10 @@
 int main(void)
 {
 	char format[100];
-	printf("ÇëÊäÈëÃû\n");
+	printf("è¯·è¾“å…¥å\n");
 	char M[10];
 	scanf("%s", M);
-	printf("ÇëÊäÈëĞÕ\n");
+	printf("è¯·è¾“å…¥å§“\n");
 	char X[10];
 	scanf("%s", X);
 	
